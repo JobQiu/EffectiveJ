@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EffectiveJ.iml" filepath="$PROJECT_DIR$/EffectiveJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnEffectiveJava.iml" filepath="$PROJECT_DIR$/learnEffectiveJava.iml" />
     </modules>
   </component>
 </project>
